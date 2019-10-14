@@ -9,7 +9,7 @@ python lr.py
 
 ![](https://github.com/foobar98/ML_Linear_Regression_Interactive/blob/master/images/Figure_1.png)
 
-## Anscombe's Quartet
+## Anscombe's Quartet (available in library)
 Plots of linear regression on Anscombe's quartet.
 Execute by 
 ```
